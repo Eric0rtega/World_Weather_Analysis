@@ -1,0 +1,14 @@
+City ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Ushuaia,AR,-54.8,-68.3,39.2,93,75,21.92,shower rain
+1,Rivne,UA,50.62,26.23,33.8,100,90,2.51,fog
+2,Jamestown,US,42.1,-79.24,24.01,92,90,8.05,mist
+3,Vra,DK,57.35,9.95,45.0,100,75,14.99,mist
+4,Bethel,US,41.37,-73.41,24.8,79,100,10.29,mist
+5,Prince Rupert,CA,54.32,-130.32,41.0,93,90,9.17,mist
+6,Broome,US,42.25,-75.83,18.0,85,90,8.19,fog
+7,Westport,US,41.14,-73.36,30.2,86,90,26.4,snow
+8,Mehamn,NO,71.04,27.85,26.6,63,20,14.99,shower rain
+9,Plon,DE,54.17,10.42,45.0,93,100,11.41,light intensity drizzle
+10,Honiara,SB,-9.43,159.95,80.6,94,75,5.75,light intensity drizzle
+11,Mastic Beach,US,40.77,-72.85,37.0,80,90,9.17,mist
+12,Bennington,US,42.88,-73.2,19.4,85,90,5.82,fog
